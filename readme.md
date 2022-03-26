@@ -23,4 +23,4 @@ being Godot, the engine that powers UNED Paint.
 
 
 Most of the button svgs were extracted from Krita and Blender (both well known open source projects) and modified to fit the theme.
-![image](https://user-images.githubusercontent.com/66799893/160240083-251b8056-a46d-411f-b1c5-f5b5d3cef178.png)
+![image](https://user-images.githubusercontent.com/66799893/160240216-5877d98a-47a9-40d5-8ab5-4de6b2f5ace7.png)
